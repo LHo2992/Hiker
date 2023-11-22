@@ -1,0 +1,104 @@
+{
+	"easy": [
+		{
+			"name": "Arthur's Seat",
+			"location": "Edinbugh",
+			"start": "Holyrood Park",
+			"time": "45 mins"
+		},
+		{
+			"name": "St Abbs Head",
+			"location": "Scottish Borders",
+			"start": "St Abbs Head car park",
+			"time": "2+ hours walk to Mire Loch, a lighthouse and along the cliffs"
+		},
+		{
+			"name": "Elie to Anstruther Walk",
+			"location": "Fife",
+			"start": "Ruby Bay car park in Elie",
+			"time": "2-3hrs for the 6 mile distance. Return to your starting point by bus."
+		},
+		{
+			"name": "The Hermitage",
+			"location": "Perth",
+			"start": "The Hermitage Car Park",
+			"time": "10 min walk from the car park to Ossian's Hall. 2 hour to walk the Braan Perth."
+		},
+		{
+			"name": "Newburgh Beach",
+			"location": "Aberdeenshire Coast",
+			"start": "Car park near Newburgh Golf Club",
+			"time": "1 - 1.5 hours"
+		},
+		{
+			"name": "Big Burn Falls",
+			"location": "Golspie",
+			"start": "Big Burn Walk car park",
+			"time": "1 - 2 hours"
+		}
+	],
+	"medium": [
+		{
+			"name": "Ben A’an",
+			"location": "Golspie",
+			"start": "Ben A’an car park",
+			"time": "2 – 4 hours" 
+		},
+		{
+			"name": "The Galloway Hills",
+			"location": "Southern Uplands",
+			"start": "Bruce’s Stone car park, Loch Trool",
+			"time": "4 – 5 hours (Merrick), 6 – 7 hours (Lamachan Hill)" 
+		},
+		{
+			"name": "Mountain Trail at Beinn Eighe",
+			"location": "Torridon",
+			"start": "Coille na Glas Leitre Trails car park",
+			"time": "3 – 4 hours" 
+		},
+		{
+			"name": "Grey Mare’s Tail & Loch Skeen",
+			"location": "Southern Scotland",
+			"start": "Grey Mare’s Tail car park",
+			"time": "2 – 2.5 hours" 
+		},
+		{
+			"name": "Goatfell",
+			"location": "Isle of Arran",
+			"start": "Brodick Castle (easy access by public transport)",
+			"time": "4.5 – 6 hours from Brodick Castle + 1 hour one-way from the ferry terminal" 
+		}
+	],
+	"hard": [
+		{
+			"name": "Loch Ossian Munros",
+			"location": "Central Highlands",
+			"start": "Corrour Station (no road access)",
+			"time": "3 – 5 hours (Beinn na Lap), 7 – 8 hours (Sgor Gaibhre and Carn Dearg)" 
+		},
+		{
+			"name": "Buachaille Etive Beag",
+			"location": "Glencoe",
+			"start": "Beehive car park in Glencoe",
+			"time": "5 to 6 hours" 
+		},
+		{
+			"name": "Schiehallion",
+			"location": "Perthshire",
+			"start": "Braes of Foss car park",
+			"time": "4 – 6 hours" 
+		},
+		{
+			"name": "Beinn Ime",
+			"location": "Arrochar Alps",
+			"start": "Succoth car park",
+			"time": "4 – 6 hours (from Butterbridge), 6 – 7 hours (with Beinn Narnain)" 
+		},
+		{
+			"name": "Aonach Eagach",
+			"location": "Glencoe",
+			"start": "Small car park near Allt-na-reigh, Glencoe",
+			"time": "7 – 9 hours" 
+		}
+	]
+}
